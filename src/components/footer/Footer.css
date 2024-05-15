@@ -1,0 +1,38 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 100%;
+    height: 365px;
+    background: rgb(237, 242, 244);
+}
+
+.footer__card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 186px;
+}
+
+.foimg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.foimg h3 {
+    width: 145px;
+    height: 19px;
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+}
